@@ -15,7 +15,7 @@ This repository contains my code for the Machine Learning ans Statistics project
  ``` git clone https://github.com/ANihill/MLProject.git```
  - Navigate to repository.\
  ```cd MLProject```
- - Run the follwoing commands.\
+ - Run the following commands.\
  ```docker build . -t predict-image```\
  ```docker run --name predict-container -d -p 5000:5000 predict-image```
  
