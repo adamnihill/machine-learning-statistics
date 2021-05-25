@@ -1,0 +1,12 @@
+
+Flask == 1.1.1
+
+h5py == 2.10.0
+
+numpy == 1.19.5
+
+pandas == 0.24.2
+
+silence_tensorflow == 1.1.1
+
+tensorflow == 2.4.0
