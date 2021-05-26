@@ -1,6 +1,6 @@
 # Machine Learning and Statistics Project
 
-This repository contains my code for the Machine Learning ans Statistics project, the instructions for which can be found [here](https://learnonline.gmit.ie/mod/url/view.php?id=104063). 
+This repository contains my code for the Machine Learning and Statistics project, the instructions for which can be found [here](https://learnonline.gmit.ie/mod/url/view.php?id=104063). 
 
 ## Contents of Repository
  - Jupyter Notebook containing examination of dataset, split dataset for for training, and training of model in keras.
