@@ -12,7 +12,7 @@ This repository contains my code for the Machine Learning and Statistics project
  
  ## How to Run App from Docker Container
  - Clone this repository by running the following command on your command line.\
- ``` git clone https://github.com/ANihill/MLProject.git```
+ ``` git clone https://github.com/adamnihill/machine-learning-statistics```
  - Navigate to repository.\
  ```cd MLProject```
  - Run the following commands.\
